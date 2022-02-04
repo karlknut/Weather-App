@@ -1,0 +1,15 @@
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.deps.json
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.dll
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\bin\Debug\netstandard2.0\ref\Weather App.dll
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.pdb
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.csproj.AssemblyReference.cache
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.dll
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\ref\Weather App.dll
+C:\Users\Kasutaja\source\repos\Weather App\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.pdb
